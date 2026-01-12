@@ -43,6 +43,19 @@ This project analyzes an online sales dataset using SQL to extract meaningful bu
 - GROUP BY & ORDER BY
 - Date Functions
 
+## 📊 Key Business Insights
+- Certain product categories contribute a majority of total sales volume.
+- A few products consistently outperform others across regions.
+- Sales show clear monthly seasonality, useful for planning promotions.
+- Specific regions generate higher sales, indicating stronger market demand.
+- Digital payment methods are preferred by most customers.
+
+## 📌 Business Recommendations
+- Focus inventory planning on top-selling categories and products.
+- Run targeted discounts during low-performing months.
+- Strengthen marketing efforts in high-revenue regions.
+- Introduce loyalty programs for repeat customers.
+
 ---
 
 ## ✅ Conclusion
